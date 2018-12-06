@@ -2,16 +2,14 @@
 {
     'name': "my_module",
 
-    'summary': """
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+    'summary': 
+        this is beb-test,
 
-    'description': """
-        Long description of module's purpose
-    """,
+    'description': 
+        description of beb's module, 
 
-    'author': "My Company",
-    'website': "http://www.yourcompany.com",
+    'author': "Odoo",
+    'website': "http://www.odoo.com",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/12.0/odoo/addons/base/data/ir_module_category_data.xml
